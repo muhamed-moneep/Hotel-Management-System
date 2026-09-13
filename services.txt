@@ -1,0 +1,2 @@
+Breakfast Buffet,General,Hotel Service,100,Yes,2
+Spaas,any,pla,200,Yes,2

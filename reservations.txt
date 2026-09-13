@@ -1,0 +1,10 @@
+hamo,101,2026-05-10,2026-05-14,spa,5000,Check-In
+mohamed,304,2026-05-30,2026-06-10,breakfast,6000,Check-Out
+omar,101,2026-05-11,2026-05-13,spa,2150,Confirmed
+marawan,103,2026-05-14,2026-05-20,spa,5150,Confirmed
+joo,102,2026-05-12,2026-05-13,breakfast,1200,Confirmed
+Mohaned Gamal,102,2026-05-11,2026-05-12,Spa,1350,Canceled
+atef el tayer,102,2026-05-11,2026-05-11,spa,1350,Confirmed
+Osama Mahmoud,501,2026-05-11,2026-05-17,Spa,4650,Confirmed
+Shika,301,2026-05-11,2026-05-15,Spa,8450,Confirmed
+Gimy,3,2005-12-21,2005-12-20,spa,0,Confirmed

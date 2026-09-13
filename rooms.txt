@@ -1,0 +1,7 @@
+101,double,3,2,,2000,Available
+102,single,1,1,garden,1200,Reserved
+201,Suite,2,1,Sea,4000,Reserved
+301,Triple,3,3,Garden,2000,Reserved
+103,family,1,5,pool,5000,Reserved
+501,Suite,4,4,sea,4500,Reserved
+767,suite,8,6,sea,7000,reserved
