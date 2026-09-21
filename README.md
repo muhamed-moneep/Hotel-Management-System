@@ -1,6 +1,6 @@
 # Hotel Management System
 
-A desktop **Hotel Management System** built in **Java** with a **Swing** GUI (developed as a **NetBeans** project). It supports role-based login and lets staff manage rooms, reservations/bookings, customers, employees, and hotel services, with a live dashboard for at-a-glance stats.
+A desktop **Hotel Management System** built in **Java** with a **Swing** GUI (developed as a **NetBeans** project). It supports role-based login and lets staff manage rooms, reservations/bookings, customers, employees, and hotel services, with a live dashboard.
 
 ## Features
 
